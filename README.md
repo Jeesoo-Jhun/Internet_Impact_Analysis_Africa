@@ -1,5 +1,5 @@
 # Internet Usage and Socio-Economic Impact Analysis in East and South Africa
-=======
+
 ![East Africa Statistic](https://worldbank.scene7.com/is/image/worldbankprod/afe-digital-transformation?wid=780&hei=439&qlt=85,0&resMode=sharp)
 
 ## Overview
