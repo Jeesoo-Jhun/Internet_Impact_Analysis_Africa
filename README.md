@@ -1,6 +1,6 @@
 # Internet Usage and Socio-Economic Impact Analysis in East and South Africa
 
-![East Africa Map](https://e7.pngegg.com/pngimages/26/56/png-clipart-east-africa-south-africa-graphy-easternbloc-vapes-map-southern-african-development-community.png](https://t4.ftcdn.net/jpg/01/91/32/45/360_F_191324557_cqVO6wTTbP07amvjij9dqPzK8F6lWvmy.jpg)
+![East Africa Map](https://t4.ftcdn.net/jpg/01/91/32/45/360_F_191324557_cqVO6wTTbP07amvjij9dqPzK8F6lWvmy.jpg)
 
 ## Overview
 
