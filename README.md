@@ -67,7 +67,7 @@ The datasets used include global development indicators, focusing on variables s
 The visualizations were created using tools like Seaborn and Matplotlib for clear and interactive stakeholder presentations.
 
 ## Additional Resources
-- [Project Analysis Notebooks](https://github.com/Jeesoo-Jhun/Internet_Impact_Analysis_Africa/blob/main/Analysis%20notebook.ipynb)
+- [Project Analysis Notebooks](https://github.com/Jeesoo-Jhun/Internet_Impact_Analysis_Africa/blob/main/(Final)%20Analysis%20notebook.ipynb)
 - [Project Modeling Notebooks](https://github.com/Jeesoo-Jhun/Internet_Impact_Analysis_Africa/blob/main/Modeling%20notebook.ipynb)
 - [Data Sources](https://www.kaggle.com/code/timmofeyy/world-bank-eda-scatter-plots/input)
 
